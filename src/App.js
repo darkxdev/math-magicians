@@ -1,10 +1,9 @@
 import './App.css';
+import CalculatorLayout from './components/Calculator.js';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Test</h1>
-    </div>
+      <CalculatorLayout/>
   );
 }
 
