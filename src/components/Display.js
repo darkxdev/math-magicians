@@ -1,12 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Display = ({ value }) => (
+const Display = ({ display }) => (
   <div className="display-row">
-    <input type="text" className="display" value={value} readOnly />
+    <input type="text" className="display" value={display} readOnly />
   </div>
 );
 
-Display.propTypes = { value: PropTypes.string.isRequired };
+Display.propTypes = { display: PropTypes.string.isRequired };
 
 export default Display;
