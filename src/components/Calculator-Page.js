@@ -7,7 +7,7 @@ const CalculatorPage = () => (
       {'\u0027'}
       s do some math!
     </h2>
-    <CalculatorLayout />
+    <CalculatorLayout className="calculator-layout" />
   </div>
 );
 
