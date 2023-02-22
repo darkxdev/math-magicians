@@ -1,5 +1,5 @@
-import operate from "./operate";
+import operate from './operate';
 
 test('Add funcionality test', () => {
-  expect(operate(2, 3, '+')).toBe('5')
-})
+  expect(operate(2, 3, '+')).toBe('5');
+});
