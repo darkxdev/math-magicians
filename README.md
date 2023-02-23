@@ -45,7 +45,7 @@
 
 You can checkout the live running version of this app at the following link:
 
-(Under Development)
+[https://math-magicians-d6zc.onrender.com/](https://math-magicians-d6zc.onrender.com/)
 
 <!-- GETTING STARTED -->
 
